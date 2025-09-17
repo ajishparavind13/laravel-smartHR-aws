@@ -174,3 +174,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Laravel-Smarthr
+
+#For detailed - information do visit our blogpost https://medium.com/@ajishparavind13/deploying-a-laravel-hrms-project-on-aws-a-step-by-step-guide-acb68afa1372
